@@ -18,8 +18,8 @@ Revision is a to-do list that schedules revision based on the principle of space
 https://user-images.githubusercontent.com/62826283/150594553-24818108-8ef4-4688-9027-aba20e3bb80b.mp4
 
 ##  CryptoClock  app
-This is an alarm clock app, but not a normal one! The idea is inspired from this picture:
-<img src="./files/money-shredding-alarm.jpg" alt="Money shredding alarm" style="width:300px;"/>
+This is an alarm clock app, but not a normal one! The idea is inspired from this picture:  
+<img src="./files/money-shredding-alarm.jpg" alt="Money shredding alarm" style="width:300px;"/>  
 And if you don’t wake up on time, the amount you have specified will be deducted from your wallet as a penalty.
 
 ### Screen recording
